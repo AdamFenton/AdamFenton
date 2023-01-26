@@ -1,2 +1,2 @@
 
-![](src/images/banner.png)
+![](banner.png)
